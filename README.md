@@ -1,6 +1,12 @@
 ## Hi there 👋
 🎓 Informatics Engineering student | 🧠 Learning React.js | 🎬 Passionate about video editing
 
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
 <!--
 **chadoincode/chadoincode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
