@@ -7,6 +7,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
+### 🚀 Featured Projects
+- 🌙 [Soulful Dhikr](https://github.com/username/soulful-dhikr) — Dzikir & Doa app using public API  
 <!--
 **chadoincode/chadoincode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
