@@ -19,7 +19,7 @@
 </p>
 
 ### 🚀 Featured Projects
-- 🌙 [Soulful Dhikr](https://github.com/chadoincode/soulful-dhikr) — Dhkir & Dua app using public API  
+- 🌙 [Soulful Dhikr](https://github.com/chadoincode/soulful-dhikr) — Dhikr & Dua app using public API  
 <!--
 **chadoincode/chadoincode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
