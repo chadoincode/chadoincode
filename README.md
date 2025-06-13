@@ -6,7 +6,7 @@ I'm Ayesha Dear Raisa. People usually call me Ayesha
 ### 🛠️ Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,figma,github,vscode,ae,pr,notion" />
+    <img src="https://skillicons.dev/icons?i=react,astro,ts,js,tailwind,figma,github,vscode,ae,pr,notion" />
   </a>
 </p>
 
