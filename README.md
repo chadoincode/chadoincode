@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Ayesha Dear Raisa. People usually call me Ayesha
 
-🎓 Informatics Engineering student | 🧠 Learning React.js and SEO | 🎬 Passionate about video editing
+🎓 Informatics Engineering student | 🧠 Learning React.js | 🎬 Passionate about video editing
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
